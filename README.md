@@ -3,9 +3,3 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/hakan-akgul/hakan-akgul?style=for-the-badge)](https://github.com/hakan-akgul)
 
-[![Years Badge](https://badges.pufler.dev/years/hakan-akgul?style=for-the-badge)](https://github.com/hakan-akgul)
-
-[![Repos Badge](https://badges.pufler.dev/repos/hakan-akgul?style=for-the-badge)](https://github.com/hakan-akgul)
-
-[![Updated Badge](https://badges.pufler.dev/updated/hakan-akgul/git-badges?style=for-the-badge)](https://github.com/hakan-akgul)
-
