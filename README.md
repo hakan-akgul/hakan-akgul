@@ -16,8 +16,8 @@
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![affinitypublisher](https://img.shields.io/badge/tool-affinitypublisher-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=D90043)
-![affinitydesigner](https://img.shields.io/badge/tool-affinitydesigner-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=006CC4)
-![affinityphoto](https://img.shields.io/badge/tool-affinityphoto-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=8B2CD9)
+![affinitypublisher](https://img.shields.io/badge/affinity_publisher-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![affinitydesigner](https://img.shields.io/badge/affinity_designer-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![affinityphoto](https://img.shields.io/badge/affinity_photo-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![affinityphoto](https://img.shields.io/badge/tool-vscode-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=00A6F7)
+![vscode](https://img.shields.io/badge/vs_code-1572B6?style=for-the-badge&logo=css3&logoColor=white)
