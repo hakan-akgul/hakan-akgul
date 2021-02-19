@@ -1,5 +1,5 @@
 <a href="https://github.com/hakan-akgul">
-  <img width="100%" height="400" style="object-fit: cover" src="./code.jpg">
+  <img width="100%" height="400" style="object-fit: cover" src="./avatar.jpg">
 </p>
 
 # Hey there 👋
