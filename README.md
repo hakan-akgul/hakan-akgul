@@ -1,13 +1,13 @@
-# HI I AM HAKAN
+# Hey there 👋
 
 [![Visits Badge](https://badges.pufler.dev/visits/hakan-akgul/hakan-akgul?style=for-the-badge)](https://github.com/hakan-akgul)
 
-## CONTACT
+### Contact
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-OPENTOWORK-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hakan-akgül/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.hakanakgul@gmail.com)
 
 
-## SKILLS
+### Skills
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![nuxt](https://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D)
@@ -17,7 +17,7 @@
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## TOOLS
+### Tools
 
 ![affinitypublisher](https://img.shields.io/badge/affinity_publisher-FFA251?style=for-the-badge&logo=affinity-publisher&logoColor=white)
 ![affinitydesigner](https://img.shields.io/badge/affinity_designer-04D3FF?style=for-the-badge&logo=affinity-designer&logoColor=white)
