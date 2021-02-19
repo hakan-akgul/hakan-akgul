@@ -5,7 +5,7 @@
 ![js](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=EFD81D)
 ![vue](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=Vue.js&logoColor=white&color=42BF94)
 ![nuxt](https://img.shields.io/badge/Code-nuxt-informational?style=for-the-badge&logo=Nuxt.js&logoColor=white&color=0F8371)
-![laravel](https://img.shields.io/badge/Code-laravel-informational?style=for-the-badge&logo=Laravel-FF2D20&logoColor=white&color=FF2D20)
+![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 
 ![html](https://img.shields.io/badge/Code-Html-informational?style=for-the-badge&logo=HTML-239120&logoColor=white&color=E96228)
