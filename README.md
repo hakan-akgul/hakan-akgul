@@ -1,5 +1,5 @@
 # Hey there 👋
-I'm Hakan... Front-end developer & graphics designer. I made and managed front-end architectures for many web sites including automation systems for schools, e-commerce business, promotion websites and others.
+I'm Hakan... Front-end developer & graphics designer. I made and manage front-end architectures for many web sites e-commerce, promotion websites and others.
 
 > Obsessive on;  
 > - **SEO concepts** when design a website  
