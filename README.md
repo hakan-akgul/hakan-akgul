@@ -20,5 +20,4 @@
 ![affinitydesigner](https://img.shields.io/badge/tool-affinitydesigner-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=006CC4)
 ![affinityphoto](https://img.shields.io/badge/tool-affinityphoto-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=8B2CD9)
 
-![macbook](https://img.shields.io/badge/MacBook_Air_2017-999999?style=for-the-badge&logo=apple&logoColor=white)
-![vscode](https://img.shields.io/badge/MacBook_Air_2017-999999?style=for-the-badge&logo=vscode&logoColor=white)
+![vscode](https://img.shields.io/badge/VS_CODE-999999?style=for-the-badge&logo=visualstudiocode&logoColor=white)
