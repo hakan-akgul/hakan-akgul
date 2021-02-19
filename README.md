@@ -4,7 +4,7 @@
 
 ![js](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=EFD81D)
 ![vue](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=VueJs&logoColor=white&color=42BF94)
-![nuxt](https://img.shields.io/badge/Code-nuxt-informational?style=for-the-badge&logo=NuxtJs&logoColor=white&color=42BF94)
+![nuxt](https://img.shields.io/badge/Code-nuxt-informational?style=for-the-badge&logo=NuxtJs&logoColor=white&color=0F8371)
 
 
 ![html](https://img.shields.io/badge/Code-Html-informational?style=for-the-badge&logo=html&logoColor=white&color=E96228)
@@ -13,3 +13,6 @@
 ![sass](https://img.shields.io/badge/Code-sass-informational?style=for-the-badge&logo=sass&logoColor=white&color=C76395)
 ![tailwind](https://img.shields.io/badge/Code-tailwindcss-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=14BDB3)
 
+![affinitypublisher](https://img.shields.io/badge/tool-affinitypublisher-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=D90043)
+![affinitydesigner](https://img.shields.io/badge/tool-affinitydesigner-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=006CC4)
+![affinityphoto](https://img.shields.io/badge/tool-affinityphoto-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=8B2CD9)
