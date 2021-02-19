@@ -7,5 +7,5 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/hakan-akgul?style=for-the-badge)](https://badges.pufler.dev)
 
-[![Updated Badge](https://badges.pufler.dev/updated/hakan-akgul/git-badges?style=for-the-badge)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/hakan-akgul/hakan-akgul/git-badges?style=for-the-badge)](https://badges.pufler.dev)
 
