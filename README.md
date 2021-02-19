@@ -1,4 +1,6 @@
+<div style="width:150px; height:100px; object-fit: cover;">
 [![Hakan's GitHub Banner](./code.jpg)](https://github.com/hakan-akgul)
+</div>
 
 # Hey there 👋
 I'm Hakan... Front-end developer & graphics designer. I made and manage front-end architectures for many web sites e-commerce, promotion websites and others.
