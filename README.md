@@ -20,4 +20,4 @@
 ![affinitydesigner](https://img.shields.io/badge/affinity_designer-04D3FF?style=for-the-badge&logo=affinity-designer&logoColor=white)
 ![affinityphoto](https://img.shields.io/badge/affinity_photo-FF82FF?style=for-the-badge&logo=affinity-photo&logoColor=white)
 
-![vscode](https://img.shields.io/badge/vs_code-00A6F7?style=for-the-badge&logo=vscode&logoColor=white)
+![vscode](https://img.shields.io/badge/vs_code-00A6F7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
