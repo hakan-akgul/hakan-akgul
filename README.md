@@ -19,4 +19,4 @@
 <br>
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=Vue&logoColor=white&color=42BF94)
+![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=Vue&logoColor=white&color=42BF94)
