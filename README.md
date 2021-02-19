@@ -5,3 +5,6 @@
 [![js](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=EFD81D)](https://github.com/hakan-akgul)
 [![vue](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=VueJs&logoColor=white&color=42BF94)](https://github.com/hakan-akgul)
 [![html](https://img.shields.io/badge/Code-Html-informational?style=for-the-badge&logo=html&logoColor=white&color=42BF94)](https://github.com/hakan-akgul)
+
+[![css](https://img.shields.io/badge/Code-css-informational?style=for-the-badge&logo=css&logoColor=white&color=42BF94)](https://github.com/hakan-akgul)
+[![sass](https://img.shields.io/badge/Code-sass-informational?style=for-the-badge&logo=sass&logoColor=white&color=42BF94)](https://github.com/hakan-akgul)
