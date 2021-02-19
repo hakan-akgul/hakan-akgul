@@ -2,17 +2,17 @@
 [![Visits Badge](https://badges.pufler.dev/visits/hakan-akgul/hakan-akgul?style=for-the-badge)](https://github.com/hakan-akgul)
 
 
-![js](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=EFD81D)
-![vue](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=Vue.js&logoColor=white&color=42BF94)
+![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![nuxt](https://img.shields.io/badge/Code-nuxt-informational?style=for-the-badge&logo=Nuxt.js&logoColor=white&color=0F8371)
 ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 
-![html](https://img.shields.io/badge/Code-Html-informational?style=for-the-badge&logo=HTML-239120&logoColor=white&color=E96228)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![css](https://img.shields.io/badge/Code-css-informational?style=for-the-badge&logo=CSS-239120&logoColor=white&color=2862E9)
-![sass](https://img.shields.io/badge/Code-sass-informational?style=for-the-badge&logo=Sass-CC6699&logoColor=white&color=C76395)
-![tailwind](https://img.shields.io/badge/Code-tailwindcss-informational?style=for-the-badge&logo=tailwind.css&logoColor=white&color=14BDB3)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ![affinitypublisher](https://img.shields.io/badge/tool-affinitypublisher-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=D90043)
 ![affinitydesigner](https://img.shields.io/badge/tool-affinitydesigner-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=006CC4)
