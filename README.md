@@ -2,10 +2,10 @@
 I'm Hakan... Front-end developer & graphics designer. I made and managed front-end architectures for many web sites including automation systems for schools, e-commerce business, promotion websites and others.
 
 > Obsessive on;  
-> - ::SEO concepts:: when design a website  
-> - ::Responsiveness:: of a page on every break point  
-> - ::Pixel perfect:: design  
-> - Optimizing for ::performance::  
+> - **SEO concepts** when design a website  
+> - **Responsiveness** of a page on every break point  
+> - **Pixel perfect** design  
+> - Optimizing for **performance**  
 
 [![Visits Badge](https://badges.pufler.dev/visits/hakan-akgul/hakan-akgul?style=for-the-badge)](https://github.com/hakan-akgul)
 
