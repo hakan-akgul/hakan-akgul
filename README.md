@@ -9,5 +9,5 @@
 
 [![css](https://img.shields.io/badge/Code-css-informational?style=for-the-badge&logo=css&logoColor=white&color=2862E9)](https://github.com/hakan-akgul)
 [![sass](https://img.shields.io/badge/Code-sass-informational?style=for-the-badge&logo=sass&logoColor=white&color=C76395)](https://github.com/hakan-akgul)
-[![tailwind](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=14BDB3)](https://github.com/hakan-akgul)
+[![tailwind](https://img.shields.io/badge/Code-tailwind css-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=14BDB3)](https://github.com/hakan-akgul)
 
