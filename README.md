@@ -10,7 +10,7 @@ I'm Hakan... Front-end developer & graphics designer. I made and managed front-e
 
 ### Contact
 [![Visits Badge](https://badges.pufler.dev/visits/hakan-akgul/hakan-akgul?style=for-the-badge)](https://github.com/hakan-akgul)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-#OPENTOWORK-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hakan-akgül/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-\#OPENTOWORK-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hakan-akgül/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.hakanakgul@gmail.com)
 
 
