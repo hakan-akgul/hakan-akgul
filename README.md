@@ -33,9 +33,12 @@ I'm Hakan... Front-end developer & graphics designer. I made and manage front-en
 ![affinitypublisher](https://img.shields.io/badge/affinity_publisher-D90043?style=for-the-badge&logo=affinity-publisher&logoColor=white)
 ![affinitydesigner](https://img.shields.io/badge/affinity_designer-006CC4?style=for-the-badge&logo=affinity-designer&logoColor=white)
 ![affinityphoto](https://img.shields.io/badge/affinity_photo-8B2CD9?style=for-the-badge&logo=affinity-photo&logoColor=white)
-![vscode](https://img.shields.io/badge/vs_code-00A6F7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![vscode](https://img.shields.io/badge/VISUAL_STUDIO_CODE-00A6F7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Familiar to
 ![laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![cordova](https://img.shields.io/badge/APACHE_CORDOVA-EFEFEF?style=for-the-badge&logo=apache-cordova&logoColor=gray)
 ![electron](https://img.shields.io/badge/ELECTRON-2C2D3B?style=for-the-badge&logo=electron&logoColor=white)
+![bulma](https://img.shields.io/badge/BULMA_CSS-00CAAC?style=for-the-badge&logo=bulma-css&logoColor=white)
+![ui_kit](https://img.shields.io/badge/UI_KIT-1D83E8?style=for-the-badge&logo=ui-kit&logoColor=white)
+
