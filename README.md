@@ -27,7 +27,7 @@ I'm Hakan... Front-end developer & graphics designer. I made and manage front-en
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-[![github](https://img.shields.io/badge/github-38B2AC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hakan-akgul)
+[![github](https://img.shields.io/badge/github-383C4A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hakan-akgul)
 
 ### Tools
 ![affinitypublisher](https://img.shields.io/badge/affinity_publisher-FFA251?style=for-the-badge&logo=affinity-publisher&logoColor=white)
