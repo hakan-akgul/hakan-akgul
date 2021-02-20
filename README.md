@@ -24,10 +24,11 @@ I'm Hakan... Front-end developer & graphics designer. I made and manage front-en
 ![nuxt](https://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D)
 ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![postcss](https://img.shields.io/badge/POSTCSS-D6380A?style=for-the-badge&logo=post-css&logoColor=white)
+![postcss](https://img.shields.io/badge/POSTCSS-D6380A?style=for-the-badge&logo=postcss&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### Tools
 
