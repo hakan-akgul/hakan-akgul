@@ -22,7 +22,6 @@ I'm Hakan... Front-end developer & graphics designer. I made and manage front-en
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![nuxt](https://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D)
-![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![postcss](https://img.shields.io/badge/POSTCSS-D6380A?style=for-the-badge&logo=postcss&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,8 +30,11 @@ I'm Hakan... Front-end developer & graphics designer. I made and manage front-en
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hakan-akgul)
 
 ### Tools
-
 ![affinitypublisher](https://img.shields.io/badge/affinity_publisher-FFA251?style=for-the-badge&logo=affinity-publisher&logoColor=white)
 ![affinitydesigner](https://img.shields.io/badge/affinity_designer-04D3FF?style=for-the-badge&logo=affinity-designer&logoColor=white)
 ![affinityphoto](https://img.shields.io/badge/affinity_photo-FF82FF?style=for-the-badge&logo=affinity-photo&logoColor=white)
 ![vscode](https://img.shields.io/badge/vs_code-00A6F7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Familiar
+![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![autoprefixer](https://img.shields.io/badge/Autoprefixer-D63633?style=for-the-badge&logo=autoprefixer&logoColor=white)
