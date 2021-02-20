@@ -2,10 +2,10 @@
   <img width="100%" height="300px" style="object-fit:cover" src="./mountain.jpg">
 </p>
 
-# Hey there 👋
-I'm Hakan... Front-end developer & graphics designer. I made and manage front-end architectures for many web sites e-commerce, promotion websites and others.
+# Hi 🖖🏻
+I'm Hakan... Front-end developer & graphics designer. I made and manage front-end architectures for many web sites and web apps.
 
-> Obsessive on;  
+> I pay much attention on;  
 > - **SEO concepts** when design a website  
 > - **Responsiveness** of a page on every break point  
 > - **Pixel perfect** design  
