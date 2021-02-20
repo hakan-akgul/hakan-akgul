@@ -39,6 +39,7 @@ I'm Hakan... Front-end developer & graphics designer. I made and manage front-en
 ![laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![cordova](https://img.shields.io/badge/APACHE_CORDOVA-EFEFEF?style=for-the-badge&logo=apache-cordova&logoColor=gray)
 ![electron](https://img.shields.io/badge/ELECTRON-2C2D3B?style=for-the-badge&logo=electron&logoColor=white)
-![bulma](https://img.shields.io/badge/BULMA_CSS-00CAAC?style=for-the-badge&logo=bulma-css&logoColor=white)
-![ui_kit](https://img.shields.io/badge/UI_KIT-1D83E8?style=for-the-badge&logo=ui-kit&logoColor=white)
+![bootstrap](https://img.shields.io/badge/BOOTSTRAP-00CAAC?style=for-the-badge&logo=bootstrap&logoColor=white)
+![bulma](https://img.shields.io/badge/BULMA_CSS-00CAAC?style=for-the-badge&logo=bulma&logoColor=white)
+![ui_kit](https://img.shields.io/badge/UI_KIT-1D83E8?style=for-the-badge&logo=uikit&logoColor=white)
 
