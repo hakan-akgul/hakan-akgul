@@ -19,15 +19,15 @@ I'm Hakan... Front-end developer & graphics designer. I made and manage front-en
 
 
 ### Skills
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![nuxt](https://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D)
+![js](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![vue](https://img.shields.io/badge/VUE.JS-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![nuxt](https://img.shields.io/badge/NUXT.JS-35495E?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![postcss](https://img.shields.io/badge/POSTCSS-D6380A?style=for-the-badge&logo=postcss&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-[![github](https://img.shields.io/badge/github-383C4A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hakan-akgul)
+![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![tailwind](https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![github](https://img.shields.io/badge/GITHUB-383C4A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hakan-akgul)
 
 ### Tools
 ![affinitypublisher](https://img.shields.io/badge/affinity_publisher-FFA251?style=for-the-badge&logo=affinity-publisher&logoColor=white)
