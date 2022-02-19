@@ -3,13 +3,8 @@
 </p>
 
 # Hi 🖖🏻
-I'm Hakan... Front-end developer & graphics designer. I made and manage front-end architectures for many web sites and web apps.
-
-> I pay much attention on;  
-> - **SEO concepts** when design a website  
-> - **Responsiveness** of a page on every break point  
-> - **Pixel perfect** design  
-> - Optimizing for **performance**  
+I'm Hakan... Front-end developer... 
+I develop and manage front-end architectures for web apps.
 
 
 ### Contact
@@ -23,23 +18,13 @@ I'm Hakan... Front-end developer & graphics designer. I made and manage front-en
 ![vue](https://img.shields.io/badge/VUE.JS-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![nuxt](https://img.shields.io/badge/NUXT.JS-35495E?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![postcss](https://img.shields.io/badge/POSTCSS-D6380A?style=for-the-badge&logo=postcss&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![tailwind](https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![tailwind css](https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![windi css](https://img.shields.io/badge/WINDI_CSS-1F9FF6?style=for-the-badge&logo=windi-css&logoColor=white)
 [![github](https://img.shields.io/badge/GITHUB-383C4A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hakan-akgul)
-
-### Tools
-![vscode](https://img.shields.io/badge/VISUAL_STUDIO_CODE-00A6F7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![affinitypublisher](https://img.shields.io/badge/affinity_publisher-D90043?style=for-the-badge&logo=affinity-publisher&logoColor=white)
-![affinitydesigner](https://img.shields.io/badge/affinity_designer-006CC4?style=for-the-badge&logo=affinity-designer&logoColor=white)
-![affinityphoto](https://img.shields.io/badge/affinity_photo-8B2CD9?style=for-the-badge&logo=affinity-photo&logoColor=white)
-
-### Familiar to
-![laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![cordova](https://img.shields.io/badge/APACHE_CORDOVA-EFEFEF?style=for-the-badge&logo=apache-cordova&logoColor=gray)
-![electron](https://img.shields.io/badge/ELECTRON-2C2D3B?style=for-the-badge&logo=electron&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/BOOTSTRAP-00CAAC?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![bulma](https://img.shields.io/badge/BULMA_CSS-00CAAC?style=for-the-badge&logo=bulma&logoColor=white)
 ![ui_kit](https://img.shields.io/badge/UI_KIT-1D83E8?style=for-the-badge&logo=uikit&logoColor=white)
+![element ui](https://img.shields.io/badge/ELEMENT_UI-2897FF?style=for-the-badge&logo=uikit&logoColor=white)
 
