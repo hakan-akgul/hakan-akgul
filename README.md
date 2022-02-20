@@ -26,7 +26,7 @@ I develop and manage front-end architectures for web apps.
 
 ![windi css](https://img.shields.io/badge/WINDI_CSS-1F9FF6?style=flat-square&logo=windi-css&logoColor=white)
 ![tailwind css](https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![element ui](https://img.shields.io/badge/ELEMENT_UI-2897FF?style=flat-square&logo=elementui&logoColor=white)
+![element ui](https://img.shields.io/badge/ELEMENT_UI-2897FF?style=flat-square&logo=element-ui&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/BOOTSTRAP-00CAAC?style=flat-square&logo=bootstrap&logoColor=white)
 ![ui_kit](https://img.shields.io/badge/UI_KIT-1D83E8?style=flat-square&logo=uikit&logoColor=white)
 
