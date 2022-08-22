@@ -8,7 +8,6 @@ I develop and manage front-end architectures for web apps.
 
 
 ### Contact
-[![Visits Badge](https://badges.pufler.dev/visits/hakan-akgul/hakan-akgul?style=for-the-badge)](https://github.com/hakan-akgul)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hakan-akgül/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.hakanakgul@gmail.com)
 [![Github](https://img.shields.io/badge/GITHUB-383C4A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hakan-akgul)
