@@ -1,4 +1,6 @@
-<img src="./images/coder.webp" alt="coder" style="width: 100%; height:200px; object-fit: cover; object-position: center;" />
+<link href="style.css" rel="stylesheet"></link>
+
+<img src="./images/coder.webp" alt="coder" style="width: 100%; height:200px; object-fit: cover; object-position: center" />
 
 me, hakan... senior front-end developer...  
 i develop and manage front-end architectures for web apps
@@ -52,18 +54,3 @@ i develop and manage front-end architectures for web apps
 ![vs code](./icons/logos--visual-studio-code.svg)
 ![edge](./icons/logos--microsoft-edge.svg)
 ![qmk](./icons/simple-icons--qmk.svg)
-
-<style>
-  img {
-    filter: saturate(0);
-    width: 48px;
-    object-position: center;
-    height: 48px;
-    transition: filter;
-    transition-duration: 500ms
-  }
-
-  img:hover {
-    filter: saturate(1)
-  }
-</style>
