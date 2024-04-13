@@ -1,6 +1,6 @@
 <link href="./style.css" rel="stylesheet"></link>
 
-<img src="./images/coder.webp" alt="coder" style="width: 100%; height:200px; object-fit: cover; object-position: center" />
+<img src="./images/coder.webp" alt="coder" style="" />
 
 me, hakan... senior front-end developer...  
 i develop and manage front-end architectures for web apps
@@ -31,28 +31,38 @@ i develop and manage front-end architectures for web apps
 
 ## tech stack
 
-<img alt="typescript" style="width:48px; height:48px " src="./icons/logos--typescript-icon.svg"/>
-<img alt="javascript" style="width:48px; height:48px " src="./icons/logos--javascript.svg"/>
+<p>
+  <img alt="typescript" style="width:48px; height:48px " src="./icons/logos--typescript-icon.svg"/>
+  <img alt="javascript" style="width:48px; height:48px " src="./icons/logos--javascript.svg"/>
+</p>
 
-<img alt="vue" style="width:48px; height:48px " src="./icons/logos--vue.svg"/>
-<img alt="nuxt" style="width:48px; height:48px " src="./icons/logos--nuxt-icon.svg"/>
-<img alt="react" style="width:48px; height:48px " src="./icons/logos--react.svg"/>
-<img alt="next" style="width:48px; height:48px ".jr src="./icons/logos--nextjs-icon.svg"/>
-<img alt="astro" style="width:48px; height:48px " src="./icons/logos--astro-icon.svg"/>
+<p>
+  <img alt="vue" style="width:48px; height:48px " src="./icons/logos--vue.svg"/>
+  <img alt="nuxt" style="width:48px; height:48px " src="./icons/logos--nuxt-icon.svg"/>
+  <img alt="react" style="width:48px; height:48px " src="./icons/logos--react.svg"/>
+  <img alt="next" style="width:48px; height:48px ".jr src="./icons/logos--nextjs-icon.svg"/>
+  <img alt="astro" style="width:48px; height:48px " src="./icons/logos--astro-icon.svg"/>
+</p>
 
-<img alt="html" style="width:48px; height:48px " src="./icons/devicon--html5.svg"/>
-<img alt="css" style="width:48px; height:48px " src="./icons/devicon--css3.svg"/>
-<img alt="sass" style="width:48px; height:48px " src="./icons/logos--sass.svg"/>
-<img alt="less" style="width:48px; height:48px " src="./icons/logos--less.svg"/>
-<img alt="tailwindcss" style="width:48px; height:48px " src="./icons/logos--tailwindcss-icon.svg"/>
-<img alt="unocss" style="width:48px; height:48px " src="./icons/logos--unocss.svg"/>
+<p>
+  <img alt="html" style="width:48px; height:48px " src="./icons/devicon--html5.svg"/>
+  <img alt="css" style="width:48px; height:48px " src="./icons/devicon--css3.svg"/>
+  <img alt="sass" style="width:48px; height:48px " src="./icons/logos--sass.svg"/>
+  <img alt="less" style="width:48px; height:48px " src="./icons/logos--less.svg"/>
+  <img alt="tailwindcss" style="width:48px; height:48px " src="./icons/logos--tailwindcss-icon.svg"/>
+  <img alt="unocss" style="width:48px; height:48px " src="./icons/logos--unocss.svg"/>
+</p>
 
-<img alt="git" style="width:48px; height:48px " src="./icons/logos--git-icon.svg"/>
-<img alt="gitlab" style="width:48px; height:48px " src="./icons/logos--gitlab.svg"/>
-<img alt="github" style="width:48px; height:48px " src="./icons/logos--github-icon.svg"/>
+<p>
+  <img alt="git" style="width:48px; height:48px " src="./icons/logos--git-icon.svg"/>
+  <img alt="gitlab" style="width:48px; height:48px " src="./icons/logos--gitlab.svg"/>
+  <img alt="github" style="width:48px; height:48px " src="./icons/logos--github-icon.svg"/>
+</p>
 
 ## tools
 
-<img alt="vscode" style="width:48px; height:48px " src="./icons/logos--visual-studio-code.svg"/>
-<img alt="edge" style="width:48px; height:48px " src="./icons/logos--microsoft-edge.svg"/>
-<img alt="qmk" style="width:48px; height:48px " src="./icons/simple-icons--qmk.svg"/>
+<p>
+  <img alt="vscode" style="width:48px; height:48px " src="./icons/logos--visual-studio-code.svg"/>
+  <img alt="edge" style="width:48px; height:48px " src="./icons/logos--microsoft-edge.svg"/>
+  <img alt="qmk" style="width:48px; height:48px " src="./icons/simple-icons--qmk.svg"/>
+</p>
