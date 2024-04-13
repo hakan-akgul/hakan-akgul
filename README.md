@@ -1,4 +1,4 @@
-<link href="style.css" rel="stylesheet"></link>
+<link href="./style.css" rel="stylesheet"></link>
 
 <img src="./images/coder.webp" alt="coder" style="width: 100%; height:200px; object-fit: cover; object-position: center" />
 
