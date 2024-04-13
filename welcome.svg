@@ -59,20 +59,20 @@
 
           <img alt="typescript" src="./icons/logos--typescript-icon.svg" />
           <img alt="javascript" src="./icons/logos--javascript.svg" />
-          <br>
+          <br />
           <img alt="vue" src="./icons/logos--vue.svg" />
           <img alt="nuxt" src="./icons/logos--nuxt-icon.svg" />
           <img alt="react" src="./icons/logos--react.svg" />
           <img alt="next.js" src="./icons/logos--nextjs-icon.svg" />
           <img alt="astro" src="./icons/logos--astro-icon.svg" />
-          <br>
+          <br />
           <img alt="html" src="./icons/devicon--html5.svg" />
           <img alt="css" src="./icons/devicon--css3.svg" />
           <img alt="sass" src="./icons/logos--sass.svg" />
           <img alt="less" src="./icons/logos--less.svg" />
           <img alt="tailwind css" src="./icons/logos--tailwindcss-icon.svg" />
           <img alt="uno css" src="./icons/logos--unocss.svg" />
-          <br>
+          <br />
           <img alt="git" src="./icons/logos--git-icon.svg" />
           <img alt="gitlab" src="./icons/logos--gitlab.svg" />
           <img alt="github" src="./icons/logos--github-icon.svg" />
